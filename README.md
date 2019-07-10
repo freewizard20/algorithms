@@ -14,23 +14,6 @@
 6. CC : [CareerCup](https://www.careercup.com/)
 7. DC : [DailyCodingProblem](https://www.dailycodingproblem.com/)
 
-# 코딩시험 직전에 알아야 할 것들
-
-## fast I/O
-* C++
-```
-cin.tie(null)
-ios::sync_with_stdio(false)
-```
-* Python
-
-## float Precisions
-```
-#include <iomanip>
-cout << setprecision(6); // 총 "유효숫자"이다 1.234는 4개
-cout << 1.2345678
-```
-
 ## Solving Algorithm Problems
 
 1. 조건을 모두 받아 적어라
