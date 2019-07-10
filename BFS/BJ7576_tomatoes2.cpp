@@ -1,3 +1,4 @@
+// 20180601 memory 34372kb, time 264ms, code 1522b
 #include <iostream>
 #include <vector>
 #include <queue>

@@ -39,12 +39,12 @@
 2. Search/basic 구현 연습
 3. Array, List, String, Tree 기초 연습
 4. HashTable, Graph 기초 연습
-5. ExhaustiveSearch의 combination, permutation, backtracking 기초 연습
+5. Bruteforce의 combination, permutation, backtracking 기초 연습
 6. Greedy, Recursion 기초 연습
 7. DynamicProgramming 기초 연습
 8. Simulation 문제 풀어보기
 9. 위의 순서대로 응용 문제 풀어보기
-10. Digits, number theory, bitwise 기타 문제풀이 연습
+10. Digits, number theory, bitwise 기타 주제 연습
 * 문제는 크게 "코딩대회"식과 "코딩인터뷰"식이 있는데 길고 인풋/아웃풋이 주어진 문제가 코딩대회식이다.
 
 ## 삼성 코딩 테스트

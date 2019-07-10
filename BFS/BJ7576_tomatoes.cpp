@@ -1,7 +1,4 @@
-// ConsoleApplication1.cpp: 콘솔 응용 프로그램의 진입점을 정의합니다.
-// done in one try!!
-
-#include "stdafx.h"
+// 20181023 memory 10056kb, time 184ms, code 1160b
 #include <iostream>
 #include <vector>
 #include <algorithm>
