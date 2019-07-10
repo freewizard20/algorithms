@@ -1,10 +1,9 @@
 # Algorithm practice and implementations
+빠른 복습과 효율적인 알고리즘 구현에 대한 개인적인 노트입니다.
 
 ## naming convention
 
-0723_DPchocolate.cpp \
-{{monthdate}}_{{problemtype}}{{problemname}}.{{extension}} \
-problem location on comment
+{{문제출처}}_{{문제제목}}.{{확장자}}
 
 ## Solving Algorithm Problems
 
