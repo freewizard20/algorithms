@@ -1,5 +1,5 @@
 # Algorithm practice and implementations
-**가르치려고 있는 레포가 아니라 개인 저장소입니다!!!**
+**개인 저장소입니다!!!**
 
 ## naming convention
 
