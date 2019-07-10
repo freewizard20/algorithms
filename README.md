@@ -6,7 +6,7 @@
 
 ## naming convention
 
-{{문제출처}}_{{문제제목}}.{{확장자}}
+{{문제출처 + 번호}}_{{문제제목}}.{{확장자}}
 
 ### 문제출처
 1. SWE : [SW Expert Academy(Samsung)](https://swexpertacademy.com)
