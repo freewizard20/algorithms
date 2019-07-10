@@ -37,6 +37,12 @@
 1. [SW Expert Academy](https://swexpertacademy.com), [BJ code.plus - 기초편](https://code.plus/course/32), [BJ code.plus - 문제편](https://code.plus/course/34), [BJ code.plus - 연습편](https://code.plus/course/33)
 2. ExhaustiveSearch, BFS, DFS, Simulation, Coordinates_etc의 basic 구현체 이해 및 문제 연습
 
+### Practice sources
+
+1. [Baekjoon Online Judge](https://www.acmicpc.net/)
+2. [Dovelet.com](http://59.23.150.58/)
+3. [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
 ## 코딩 인터뷰
 
 1. 알고리즘의 기초를 탄탄히 한 후에..
@@ -98,7 +104,4 @@ You may need to modify fs.readFileSync directory if in other than Linux. You can
 1. [Baekjoon Online Judge](https://www.acmicpc.net/)
 2. [Dovelet.com](http://59.23.150.58/)
 3. [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-4. [Leetcode](https://leetcode.com/)
-5. [GeekforGeeks](https://www.geeksforgeeks.org)
-6. [Careercup](https://www.careercup.com/)
 
