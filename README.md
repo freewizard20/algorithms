@@ -8,7 +8,7 @@
 
 {{문제출처 + 번호}}_{{문제제목}}.{{확장자}}
 
-### 문제출처
+## 문제출처
 1. SWE : [SW Expert Academy(Samsung)](https://swexpertacademy.com)
 2. BJ : [Baekjoon Online Judge](https://www.acmicpc.net/)
 3. GG : [GeekforGeeks](https://www.geeksforgeeks.org)
@@ -40,6 +40,30 @@ ios::sync_with_stdio(false)
 * Python
 
 ## float Precisions
+
+## 알고리즘의 기초부터 시작하려면
+
+1. Sort/basic 구현 연습
+2. Search/basic 구현 연습
+...
+
+## 삼성 코딩 테스트
+
+1. [SW Expert Academy](https://swexpertacademy.com), [BJ code.plus - 기초편](https://code.plus/course/32), [BJ code.plus - 문제편](https://code.plus/course/34), [BJ code.plus - 연습편](https://code.plus/course/33)
+2. ExhaustiveSearch, BFS, DFS, Simulation, Coordinates_etc의 basic 구현체 이해 및 문제 연습
+
+## 코딩 인터뷰
+
+1. 알고리즘의 기초를 탄탄히 한 후에..
+2. 아래의 소스를 통해 연습합니다. 좋은 정답 예시 있는 경우도 많습니다.
+3. 제 코드의 품질은 좋지 못하니 돌아가는 용도로만 확인하시길 바랍니다(아니면 한번 생각해 볼 만한 문제의 출처 정도로).
+
+### Practice sources
+
+1. [Leetcode](https://leetcode.com/)
+2. [GeekforGeeks](https://www.geeksforgeeks.org)
+3. [Careercup](https://www.careercup.com/)
+4. [DailyCodingProblem](https://www.dailycodingproblem.com/)
 
 ## Algorithm topics
 * searching
