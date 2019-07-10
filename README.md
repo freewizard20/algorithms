@@ -116,3 +116,6 @@ these code may not run. try :
 `node {{filename}}`
 
 You may need to modify fs.readFileSync directory if in other than Linux. You can use a text input.
+
+# TODO
+나중에 쓸일 생기면 : 시간, 공간복잡도, 일반화된 수식, P=NP 추가
