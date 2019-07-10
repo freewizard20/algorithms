@@ -1,9 +1,22 @@
 # Algorithm practice and implementations
-빠른 복습과 효율적인 알고리즘 구현에 대한 개인적인 노트입니다.
+빠른 복습과 효율적인 알고리즘 구현을 위한 개인적인 노트입니다. 가르치려는 목적보다는 스스로 정리하면서 배우고 발전하는 과정을 있는 그대로 정리한 내용이어서 적절하다고 보장할 수 없습니다.
+* 주제별 내용 설명과 가장 효율적인 구현 패턴 연습
+* 관련 주제 응용문제를 통한 공부
+* 출처 문제 풀이 및 정답(pass된 한 종류의 예시일 뿐입니다)확인
 
 ## naming convention
 
 {{문제출처}}_{{문제제목}}.{{확장자}}
+
+### 문제출처
+1. SWE : [SW Expert Academy(Samsung)](https://swexpertacademy.com)
+2. BJ : [Baekjoon Online Judge](https://www.acmicpc.net/)
+3. GG : [GeekforGeeks](https://www.geeksforgeeks.org)
+4. LC : [LeetCode](https://leetcode.com/)
+5. Goog : [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+6. CC : [CareerCup](https://www.careercup.com/)
+
+# 코딩시험 직전에 알아야 할 것들
 
 ## Solving Algorithm Problems
 
@@ -16,6 +29,16 @@
 * did you read your code?
 * did you simlate your code?
 * did you think about edge cases?
+
+## fast I/O
+* C++
+```
+cin.tie(null)
+ios::sync_with_stdio(false)
+```
+* Python
+
+## float Precisions
 
 ## Algorithm topics
 * searching
@@ -39,13 +62,6 @@
 * String
 * Matrix
 * Advanced
-
-## fast I/O
-* C++
-```
-cin.tie(null)
-ios::sync_with_stdio(false)
-```
 
 ## How to run
 
