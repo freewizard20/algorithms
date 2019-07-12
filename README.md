@@ -71,6 +71,7 @@
 2. [GeekforGeeks](https://www.geeksforgeeks.org)
 3. [Careercup](https://www.careercup.com/)
 4. [DailyCodingProblem](https://www.dailycodingproblem.com/)
+5. [TechInterviewPro](https://www.techseries.dev/) : 유명한 [유투버](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)가 만든 인터뷰 코스인데 나중에 준비하게 되면 공부할꺼라 적어놓습니다
 
 # topics
 
